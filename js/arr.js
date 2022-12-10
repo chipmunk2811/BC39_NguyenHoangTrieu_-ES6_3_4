@@ -1,8 +1,0 @@
-class ListTask {
-    listTodo = [];
-
-
-
-
-
-};
